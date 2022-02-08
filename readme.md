@@ -296,17 +296,29 @@
 
 ### 4.1、辅音概述
 
-- 辅音（28个）：发音时气流受阻
+- 辅音**（28个）**：发音时气流受阻
 
-- 辅音的分类法：
+  所谓辅音, 就是指发音过程中气流会阻碍的这一些音. 如果是元音的话在发音的过程中不会受到任何阻碍.
 
-  - 声带是否震动**（清、浊）**⭐️
+- 辅音的3种分类法：
+
+  - 发音时声带是否震动**（清、浊）**⭐️
     
-    **声带不震动的是清辅音， 声带震动的 是浊辅音**
+    **声带不震动的辅音是清辅音， 声带震动的的辅音是浊辅音**
 
-  - 发音方式（爆破音、鼻音）
+  - 声音的发音方式（爆破音、鼻音）
+
+    所谓的发音方式, 就是指我们在发音时这个音到底是怎样发出来的
+
+    **比如:** 爆破音中的 `p` 在发音时气流被双唇逼着突然爆破出来,产生一种冲击, 这种方式我们就称为爆破音. 
+
+    再比如: 鼻音, 声音不从嘴巴发出来, 发音时嘴巴堵住声音从鼻子发出来, 这种称为鼻音.  
 
   - 发音部位（双唇音、唇齿音）
+
+    比如: `p` 这个音标, 发音时双唇闭住,上下嘴唇裂开发出来我们称`p` 为双唇音. 等等
+
+    
 
   >  我们在理解辅音发音分类时， 重点掌握声带是否震动的划分， 即清辅音和浊辅音的分类原则
   >
@@ -315,13 +327,13 @@
 - 清辅音（9个）
 
 ```
-[p]	[t] [k]	[f]	[θ]	[s] [ʃ] [tʃ] [h]
+[p]	[t] [k]		[f]	[θ]	[s] [ʃ] [tʃ] [h]
 ```
 
 - 浊辅音（15个）
 
 ```
-[b]	[d]	[g]	[v]	[ð]	[z] [ʒ]	[dʒ] [r] [m]	[n]	[ŋ] [l] [w]	[j] 
+[b]	[d]	[g]		[v]	[ð]	[z] [ʒ]	[dʒ] [r] [m]	[n]	[ŋ] [l] [w]	[j] 
 ```
 
 - 辅音连缀（4个）
@@ -339,57 +351,61 @@
 #### 4.2.1、爆破音介绍
 
 ```
+// 清爆
 [p]	[t] [k]
 
+// 浊爆 
 [b]	[d]	[g]
 ```
 
-
-
-- 清：[p]		[t]		  [k]
+- **清**：[<u><font color=#A52A2A>p</font></u>]		[<u><font color=#A52A2A>t</font></u>]		  [<u><font color=#A52A2A>k</font></u>]
 
   ​		双唇	齿龈	  软腭
 
-  ​		park	foot	  cat
-
-  ​		|			|		  |
+  ​		<u><font color=#A52A2A>p</font></u>ark	foo<u><font color=#A52A2A>t</font></u>	  <u><font color=#A52A2A>c</font></u>at 
 
   ​		\/		   \/         \/
 
-- 浊：[b]        [d]       [g]
+- **浊：**[<u><font color=#A52A2A>b</font></u>]        [<u><font color=#A52A2A>d</font></u>]       [<u><font color=#A52A2A>g</font></u>]
 
 ​			  双唇	 齿龈	软腭
 
-​			  book	door  great
+​			 <u><font color=#A52A2A>b</font></u>ook	<u><font color=#A52A2A>d</font></u>oor  <u><font color=#A52A2A>g</font></u>reat
 
+**<u><font color=#A52A2A>p</font></u>ark	 [<u><font color=#A52A2A>p</font></u>ɑːk]** 		n.公园; v.停(车);泊(车);
 
+**foo<u><font color=#A52A2A>t</font></u>	[fʊ<u><font color=#A52A2A>t</font></u>]**		n.脚
 
-#### 4.4.2、爆破音浊化
+**<u><font color=#A52A2A>c</font></u>at	 [<u><font color=#A52A2A>k</font></u>æt]** 		n.猫;猫科动物
 
-- 所谓爆破音浊化， 就是由清 到 浊
+**<u><font color=#A52A2A>b</font></u>ook	[<u><font color=#A52A2A>b</font></u>ʊk]**		n.书;书籍;	v.(向旅馆、饭店、戏院等)预约，预订
 
-- **浊化的条件：** S + 清 爆 （重读）
+**<u><font color=#A52A2A>d</font></u>oor	 [<u><font color=#A52A2A>d</font></u>ɔː]**		n.门;
 
-  - **s<u><font color=#A52A2A>t</font></u>udent	 [ˈs<u><font color=#A52A2A>t</font></u>juːdnt]**		n.学生;
+**<u><font color=#A52A2A>g</font></u>reat	[<u><font color=#A52A2A>ɡ</font></u>reɪt]**		adj.伟大的;巨大的
+
+#### 4.4.2、爆破音浊化⭐️⭐️⭐️
+
+- **所谓爆破音浊化， 就是由清 到 浊**⭐️
+
+- **浊化的条件：** S + 清 爆 **（重读）**⭐️
+
   - **s<u><font color=#A52A2A>p</font></u>eak	 [s<u><font color=#A52A2A>p</font></u>iːk]**		v讲话;发言;讲述;
-
+  - **s<u><font color=#A52A2A>t</font></u>udent	 [ˈs<u><font color=#A52A2A>t</font></u>juːdnt]**		n.学生;
   - **s<u><font color=#A52A2A>t</font></u>ory	[ˈs<u><font color=#A52A2A>t</font></u>ɔːri]**		n.(虚构的)故事;小说 v讲…的故事;把…作为故事讲述说谎
   - **s<u><font color=#A52A2A>k</font></u>y	[s<u><font color=#A52A2A>k</font></u>aɪ]**		n.天;天空
-
-  ```
-  // t -> d
-  student  [ˈstjuːdnt] 其实真实发音是  [ˈsdjuːdnt], 音标[t] 发[d] 的音
   
+  ```
   // p -> b
   speak [spiːk] 其实真实发音是 [sbiːk]， 音标[p] 发[b] 的音
-  
+  // t -> d
+  student  [ˈstjuːdnt] 其实真实发音是  [ˈsdjuːdnt], 音标[t] 发[d] 的音
   // t -> d
   story  [ˈstɔːri] 其实真实发音是  [ˈsdɔːri], 音标[t] 发[d] 的音
-  
   // k -> g
   sky	[skaɪ] 其实真实发音是 [sgaɪ]， 音标[k] 发[g] 的音
   ```
-
+  
   
 
 
@@ -473,7 +489,7 @@
   [h]
   ```
 
-  **how	 [haʊ]**		adv.怎样;如何
+  **<u><font color=#A52A2A>h</font></u>ow	 [<u><font color=#A52A2A>h</font></u>aʊ]**		adv.怎样;如何
 
 - 浊音、齿龈音
 
@@ -481,11 +497,11 @@
   [r]	[l]
   ```
 
-  **red	[red]**		n.红色; adj.红色的;
+  **<u><font color=#A52A2A>r</font></u>ed	[<u><font color=#A52A2A>r</font></u>ed]**		n.红色; adj.红色的;
 
-  **like	 [laɪk]** 	*(清晰)*	v.喜欢  prep.类似;相似;像…一样; adj.类似的;相似的
+  **<u><font color=#A52A2A>l</font></u>ike	 [<u><font color=#A52A2A>l</font></u>aɪk]** 	*(清晰)*	v.喜欢  prep.类似;相似;像…一样; adj.类似的;相似的
 
-​		**tell	 [tel]**   	*(含糊)*   v.告诉;告知;讲述;说;
+​		**te<u><font color=#A52A2A>ll</font></u>	 [te<u><font color=#A52A2A>l</font></u>]**   	*(含糊)*   v.告诉;告知;讲述;说;
 
 - 浊音、双唇音
 
@@ -493,7 +509,7 @@
   [w]
   ```
 
-  wait	[weɪt]		v.等待;等;等候;
+  <u><font color=#A52A2A>w</font></u>ait	[<u><font color=#A52A2A>w</font></u>eɪt]		v.等待;等;等候;
 
 - 浊音、硬腭音
 
@@ -501,7 +517,7 @@
   [j] 
   ```
 
-  **yes	[jes]**		n.对;表示同意的答复;
+  **<u><font color=#A52A2A>y</font></u>es	[<u><font color=#A52A2A>j</font></u>es]**		n.对;表示同意的答复;
 
 
 
@@ -520,7 +536,7 @@
   [m]
   ```
 
-  **many	[ˈmeni]** 		adj.许多的
+  **<u><font color=#A52A2A>m</font></u>any	[ˈ<u><font color=#A52A2A>m</font></u>eni]** 		adj.许多的
 
 - 浊音、齿龈音
 
@@ -529,7 +545,7 @@
   [n]
   ```
 
-  **nice	 [naɪs]**		adj.美好的;令人愉快的;
+  **<u><font color=#A52A2A>n</font></u>ice	 [<u><font color=#A52A2A>n</font></u>aɪs]**		adj.美好的;令人愉快的;
 
 - 浊音、软腭音
 
@@ -538,7 +554,7 @@
   [ŋ]
   ```
 
-  **pink	[pɪŋk]**		n.粉红色 adj.粉红色的;
+  **pi<u><font color=#A52A2A>n</font></u>k	[pɪ<u><font color=#A52A2A>ŋ</font></u>k]**		n.粉红色 adj.粉红色的;
 
 ### 4.7、辅音连缀
 
@@ -554,13 +570,13 @@ eg:
 [tr]
 ```
 
-**try	 [traɪ]**		v.尝试;试;努力;试图;试用;设法;	n.尝试;努力
+**<u><font color=#A52A2A>tr</font></u>y	 [<u><font color=#A52A2A>tr</font></u>aɪ]**		v.尝试;试;努力;试图;试用;设法;	n.尝试;努力
 
 ```
 [dr]
 ```
 
-**dream	[driːm]**		n.梦;睡梦;梦想; v.做梦;梦见;
+**<u><font color=#A52A2A>dr</font></u>eam	[<u><font color=#A52A2A>dr</font></u>iːm]**		n.梦;睡梦;梦想; v.做梦;梦见;
 
 ```
 ```
