@@ -346,7 +346,9 @@
 
 ### 4.2、爆破音(6个)⭐️
 
-啥是爆破音？？？ 
+发音时气流先是逼着, 最后爆发出来的音称为爆破音.
+
+
 
 #### 4.2.1、爆破音介绍
 
@@ -371,6 +373,8 @@
 ​			  双唇	 齿龈	软腭
 
 ​			 <u><font color=#A52A2A>b</font></u>ook	<u><font color=#A52A2A>d</font></u>oor  <u><font color=#A52A2A>g</font></u>reat
+
+从上面我们发现, 爆破音一共三组, `p 和 b`、`t 和 d` 、`k 和 g` 在浊化时要注意.
 
 **<u><font color=#A52A2A>p</font></u>ark	 [<u><font color=#A52A2A>p</font></u>ɑːk]** 		n.公园; v.停(车);泊(车);
 
