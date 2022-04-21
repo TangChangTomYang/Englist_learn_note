@@ -4,7 +4,14 @@
 
 ## 1、音素（标）概述
 
-英语一共有**48个**音素（标）,主要分为： **元音音素**（标） 和 **辅音音素**（标）两大类。
+英语一共有**48个**音素（标）,主要分为： **元音素**（标） 和 **辅音素**（标）两大类。
+
+**元音在发音的过程中气流不会受到任何阻碍.辅音在发音过程中气流会阻碍. **
+
+因此英语音标在发音时根据气流是否受阻碍分为元音和辅音
+
+- **元音**-发音时气流不受阻碍
+- **辅音**-发音时气流受阻碍
 
 ⭐️**元音音素（标）  20个**
 
@@ -45,7 +52,6 @@
   [tr] [dr]	[ts] [dz]
   ```
 
-  
 
 
 
@@ -77,36 +83,35 @@
 
 - **[iː]**
 
-  **thr<u><font color=#A52A2A>ee</font></u>	[θr<u><font color=#A52A2A>iː</font></u>]**  	num.三		n. 三岁
-  
-  **l<u><font color=#A52A2A>ea</font></u>ve	[l<u><font color=#A52A2A>iː</font></u>v]** 		v. 离开		n. 休假
-  
-  **h<u><font color=#A52A2A>e</font></u>	[ h<u><font color=#A52A2A>iː</font></u>]**		pron.他 		n.雄性
-  
-  **p<u><font color=#A52A2A>ie</font></u>ce	[p<u><font color=#A52A2A>iː</font></u>s]** 		n.片、段、截
+  **thr<u>ee</u>	[θr<u>iː</u>]**  	num.三		n. 三岁
+
+  **l<u>ea</u>ve	[l<u>iː</u>v]** 		v. 离开		n. 休假
+
+  **h<u>e</u>	[ h<u>iː</u>]**		pron.他 		n.雄性
+
+  **p<u>ie</u>ce	[p<u>iː</u>s]** 		n.片、段、截
 
 - **[ɪ]**
 
-  **s<u><font color=#A52A2A>i</font></u>t	[s<u><font color=#A52A2A>ɪ</font></u>t]**	v.坐
+  **s<u>i</u>t	[s<u>ɪ</u>t]**	v.坐
 
-  **man<u><font color=#A52A2A>y</font></u>	[ˈmen<u><font color=#A52A2A>i</font></u>]** 		adj.许多的
+  **man<u>y</u>	[ˈmen<u>i</u>]** 		adj.许多的
 
-  **d<u><font color=#A52A2A>e</font></u>l<u><font color=#A52A2A>i</font></u>cious	[d<u><font color=#A52A2A>ɪ</font></u>ˈl<u><font color=#A52A2A>ɪ</font></u>ʃəs]**		adj.  美味的;可口的
+  **d<u>e</u>l<u>i</u>cious	[d<u>ɪ</u>ˈl<u>ɪ</u>ʃəs]**		adj.  美味的;可口的
 
 - **[e]**
 
-  **h<u><font color=#A52A2A>ea</font></u>d	 [h<u><font color=#A52A2A>e</font></u>d]**		n.头、头部、头脑、脑筋 v.朝（某方向）行进
+  **h<u>ea</u>d	 [h<u>e</u>d]**		n.头、头部、头脑、脑筋 v.朝（某方向）行进
 
-  **b<u><font color=#A52A2A>e</font></u>d	[b<u><font color=#A52A2A>e</font></u>d]**		n.床
+  **b<u>e</u>d	[b<u>e</u>d]**		n.床
 
-  **m<u><font color=#A52A2A>a</font></u>ny	[ˈm<u><font color=#A52A2A>e</font></u>ni]** 		adj.许多的
+  **m<u>a</u>ny	[ˈm<u>e</u>ni]** 		adj.许多的
 
 - **[æ]**
 
-  **b<u><font color=#A52A2A>a</font></u>g	[b<u><font color=#A52A2A>æ</font></u>ɡ]**		n.纸袋，塑料袋;手提包;
-  
-  **h<u><font color=#A52A2A>a</font></u>ppy	[ˈh<u><font color=#A52A2A>æ</font></u>pi]**		adj.快乐的;高兴的;
-  
+  **b<u>a</u>g	[b<u>æ</u>ɡ]**		n.纸袋，塑料袋;手提包;
+
+  **h<u>a</u>ppy	[ˈh<u>æ</u>pi]**		adj.快乐的;高兴的;
 
 
 
@@ -132,48 +137,47 @@
 
 - **[ɑː]**
 
-   **c<u><font color=#A52A2A>ar</font></u>	[k<u><font color=#A52A2A>ɑː</font></u>]**		n.汽车、小汽车
+   **c<u>ar</u>	[k<u>ɑː</u>]**		n.汽车、小汽车
 
-  **cl<u><font color=#A52A2A>a</font></u>ss	 [kl<u><font color=#A52A2A>ɑː</font></u>s]**		n.班;班级;课;上课
+   **cl<u>a</u>ss	 [kl<u>ɑː</u>s]**		n.班;班级;课;上课
 
 - **[ɒ]**
 
-  **d<u><font color=#A52A2A>o</font></u>g	[d<u><font color=#A52A2A>ɒ</font></u>ɡ]**		n.狗
+  **d<u>o</u>g	[d<u>ɒ</u>ɡ]**		n.狗
 
-  **w<u><font color=#A52A2A>a</font></u>nt	[w<u><font color=#A52A2A>ɒ</font></u>nt]**	v.想要;希望;
+  **w<u>a</u>nt	[w<u>ɒ</u>nt]**	v.想要;希望;
 
 - **[ɔː]**
 
-  **t<u><font color=#A52A2A>al</font></u>k	[t<u><font color=#A52A2A>ɔː</font></u>k]**		v.说话;讲话	n.交谈;谈话;讨论;商讨
+  **t<u>al</u>k	[t<u>ɔː</u>k]**		v.说话;讲话	n.交谈;谈话;讨论;商讨
 
-  **sh<u><font color=#A52A2A>or</font></u>t	 [ʃ<u><font color=#A52A2A>ɔː</font></u>t]**		adj.短的;个子矮的;短期的
+  **sh<u>or</u>t	 [ʃ<u>ɔː</u>t]**		adj.短的;个子矮的;短期的
 
-  **<u><font color=#A52A2A>au</font></u>thor	[ˈ<u><font color=#A52A2A>ɔː</font></u>θə]** 		n.作者;作家 vt.编写
+  **<u>au</u>thor	[ˈ<u>ɔː</u>θə]** 		n.作者;作家 vt.编写
 
-  **f<u><font color=#A52A2A>ou</font></u>r	 [f<u><font color=#A52A2A>ɔː</font></u>]**		num.四 n.四；四个；四岁
+  **f<u>ou</u>r	 [f<u>ɔː</u>]**		num.四 n.四；四个；四岁
 
-  **w<u><font color=#A52A2A>ar</font></u>m	[w<u><font color=#A52A2A>ɔː</font></u>m]**		adj.温暖的;暖和的;保暖的; n. v. 取暖;加热
+  **w<u>ar</u>m	[w<u>ɔː</u>m]**		adj.温暖的;暖和的;保暖的; n. v. 取暖;加热
 
 -  **[ʊ]**
 
-  **p<u><font color=#A52A2A>u</font></u>t	 [p<u><font color=#A52A2A>ʊ</font></u>t]**		vt.放;安置
+  **p<u>u</u>t	 [p<u>ʊ</u>t]**		vt.放;安置
 
-  **g<u><font color=#A52A2A>oo</font></u>d	[ɡ<u><font color=#A52A2A>ʊ</font></u>d]** 		adj.好的;优质的
+  **g<u>oo</u>d	[ɡ<u>ʊ</u>d]** 		adj.好的;优质的
 
-  **sh<u><font color=#A52A2A>ou</font></u>ld	[ʃ<u><font color=#A52A2A>ʊ</font></u>d]** 		(表示预期)应该会;可能;本应
+  **sh<u>ou</u>ld	[ʃ<u>ʊ</u>d]** 		(表示预期)应该会;可能;本应
 
 - **[uː]**
 
-  **f<u><font color=#A52A2A>oo</font></u>d	[f<u><font color=#A52A2A>uː</font></u>d]**		n.食物
-  
-  **d<u><font color=#A52A2A>o</font></u>	[d<u><font color=#A52A2A>uː</font></u>]**		v.(以某种方式)做; 办(某事)；从事
-  
-  **bl<u><font color=#A52A2A>u</font></u>e	[bl<u><font color=#A52A2A>uː</font></u>]**		adj.蓝色的;忧郁的	n.蓝色
-  
-  **s<u><font color=#A52A2A>ou</font></u>p	[s<u><font color=#A52A2A>uː</font></u>p]**		n.汤;羹
+  **f<u>oo</u>d	[f<u>uː</u>d]**		n.食物
 
-  **j<u><font color=#A52A2A>ui</font></u>ce	 [dʒ<u><font color=#A52A2A>uː</font></u>s]**		n.果汁;菜汁; vt榨出(水果或蔬菜的)汁液;榨汁
-  
+  **d<u>o</u>	[d<u>uː</u>]**		v.(以某种方式)做; 办(某事)；从事
+
+  **bl<u>u</u>e	[bl<u>uː</u>]**		adj.蓝色的;忧郁的	n.蓝色
+
+  **s<u>ou</u>p	[s<u>uː</u>p]**		n.汤;羹
+
+  **j<u>ui</u>ce	 [dʒ<u>uː</u>s]**		n.果汁;菜汁; vt榨出(水果或蔬菜的)汁液;榨汁
 
 
 
@@ -197,44 +201,41 @@
 
 - **[ʌ]**
 
-  **<u><font color=#A52A2A>u</font></u>p	 [<u><font color=#A52A2A>ʌ</font></u>p]**		adj.向上的 prep.沿着;顺着;向…上游
+  **<u>u</u>p	 [<u>ʌ</u>p]**		adj.向上的 prep.沿着;顺着;向…上游
 
-  **m<u><font color=#A52A2A>o</font></u>ther	 [ˈm<u><font color=#A52A2A>ʌ</font></u>ðə]**		n.母亲;妈妈;
+  **m<u>o</u>ther	 [ˈm<u>ʌ</u>ðə]**		n.母亲;妈妈;
 
-  **tr<u><font color=#A52A2A>ou</font></u>ble	 [ˈtr<u><font color=#A52A2A>ʌ</font></u>bl]** 		n.麻烦;困难;问题;忧虑
+  **tr<u>ou</u>ble	 [ˈtr<u>ʌ</u>bl]** 		n.麻烦;困难;问题;忧虑
 
-  **bl<u><font color=#A52A2A>oo</font></u>d	 [bl<u><font color=#A52A2A>ʌ</font></u>d]**		n.血
+  **bl<u>oo</u>d	 [bl<u>ʌ</u>d]**		n.血
 
-  
 
 - **[ɜː]**
 
-  **g<u><font color=#A52A2A>ir</font></u>l	 [ɡ<u><font color=#A52A2A>ɜː</font></u>l]**		n.女孩;姑娘;女儿
+  **g<u>ir</u>l	 [ɡ<u>ɜː</u>l]**		n.女孩;姑娘;女儿
 
-  **th<u><font color=#A52A2A>ur</font></u>sday	 [ˈθ<u><font color=#A52A2A>ɜː</font></u>zdeɪ]**		n.星期四
+  **th<u>ur</u>sday	 [ˈθ<u>ɜː</u>zdeɪ]**		n.星期四
 
-  **<u><font color=#A52A2A>ea</font></u>rth	[<u><font color=#A52A2A>ɜː</font></u>θ]**		n.地球;世界;陆地;地面;大地
+  **<u>ea</u>rth	[<u>ɜː</u>θ]**		n.地球;世界;陆地;地面;大地
 
-  **w<u><font color=#A52A2A>or</font></u>d	 [w<u><font color=#A52A2A>ɜː</font></u>d]**		n.单词;字
+  **w<u>or</u>d	 [w<u>ɜː</u>d]**		n.单词;字
 
-  
 
 - **[ə]** 
 
-  **teach<u><font color=#A52A2A>er</font></u>	 [ˈtiːtʃ<u><font color=#A52A2A>ə</font></u>]** 		n.教师;老师
-  
-  **doct<u><font color=#A52A2A>or</font></u>	[ˈdɒkt<u><font color=#A52A2A>ə</font></u>]** 		n.医生;大夫;博士
-  
-  **doll<u><font color=#A52A2A>ar</font></u>	[ˈdɒl<u><font color=#A52A2A>ə</font></u>]**		n.美元
-  
-  **t<u><font color=#A52A2A>o</font></u>day	[t<u><font color=#A52A2A>ə</font></u>ˈdeɪ]**		n.今天;今日
+  **teach<u>er</u>	 [ˈtiːtʃ<u>ə</u>]** 		n.教师;老师
 
-  **<u><font color=#A52A2A>a</font></u>round	[<u><font color=#A52A2A>ə</font></u>ˈraʊnd]**		adv.围绕;周围	prep.围绕;环绕
-  
-  **h<u><font color=#A52A2A>er</font></u>	[h<u><font color=#A52A2A>ə</font></u>]**		pron.她
-  
-  
-  
+  **doct<u>or</u>	[ˈdɒkt<u>ə</u>]** 		n.医生;大夫;博士
+
+  **doll<u>ar</u>	[ˈdɒl<u>ə</u>]**		n.美元
+
+  **t<u>o</u>day	[t<u>ə</u>ˈdeɪ]**		n.今天;今日
+
+  **<u>a</u>round	[<u>ə</u>ˈraʊnd]**		adv.围绕;周围	prep.围绕;环绕
+
+  **h<u>er</u>	[h<u>ə</u>]**		pron.她
+
+  ​
 
 
 
@@ -276,43 +277,42 @@
 
 - **[eɪ]**
 
-  **n<u><font color=#A52A2A>a</font></u>me	 [n<u><font color=#A52A2A>eɪ</font></u>m]** 		n.名字;名称	vt命名;给…取名
+  **n<u>a</u>me	 [n<u>eɪ</u>m]** 		n.名字;名称	vt命名;给…取名
 
-  **s<u><font color=#A52A2A>ay</font></u>	 [s<u><font color=#A52A2A>eɪ</font></u>]**		v说;讲;告诉;念;朗诵;背诵
+  **s<u>ay</u>	 [s<u>eɪ</u>]**		v说;讲;告诉;念;朗诵;背诵
 
-  **gr<u><font color=#A52A2A>ea</font></u>t	 [ɡr<u><font color=#A52A2A>eɪ</font></u>t]**		adj.伟大的;巨大的; adv.很好地;极好地 n.名人;伟人
+  **gr<u>ea</u>t	 [ɡr<u>eɪ</u>t]**		adj.伟大的;巨大的; adv.很好地;极好地 n.名人;伟人
 
-  **r<u><font color=#A52A2A>ai</font></u>n	 [r<u><font color=#A52A2A>eɪ</font></u>n]**		n.雨;雨水;
+  **r<u>ai</u>n	 [r<u>eɪ</u>n]**		n.雨;雨水;
 
-  **th<u><font color=#A52A2A>ey</font></u>	 [ð<u><font color=#A52A2A>eɪ</font></u>]**		pron.他们;她们;它们;用以代替he或she，指性别不详的人;
+  **th<u>ey</u>	 [ð<u>eɪ</u>]**		pron.他们;她们;它们;用以代替he或she，指性别不详的人;
 
 - **[aɪ]**
 
-  **f<u><font color=#A52A2A>i</font></u>ne	[f<u><font color=#A52A2A>aɪ</font></u>n]**		adj.好的;美好的;健康的;高质量的 n.罚款;罚金
+  **f<u>i</u>ne	[f<u>aɪ</u>n]**		adj.好的;美好的;健康的;高质量的 n.罚款;罚金
 
-  **m<u><font color=#A52A2A>y</font></u>	[m<u><font color=#A52A2A>aɪ</font></u>]**		det.我的	pron. "I" 的所有格形式
+  **m<u>y</u>	[m<u>aɪ</u>]**		det.我的	pron. "I" 的所有格形式
 
 - **[ɔɪ]**
 
-  **b<u><font color=#A52A2A>oy</font></u>	 [b<u><font color=#A52A2A>ɔɪ</font></u>]**		n.男孩;男青年
+  **b<u>oy</u>	 [b<u>ɔɪ</u>]**		n.男孩;男青年
 
-  **v<u><font color=#A52A2A>oi</font></u>ce	 [v<u><font color=#A52A2A>ɔɪ</font></u>s]** 	n.嗓音;说话声;歌唱声; vt 表达，吐露
+  **v<u>oi</u>ce	 [v<u>ɔɪ</u>s]** 	n.嗓音;说话声;歌唱声; vt 表达，吐露
 
 - **[əʊ]**
 
-  **g<u><font color=#A52A2A>o</font></u>	[ɡ<u><font color=#A52A2A>əʊ</font></u>]**		v.去;走;开始;进行
+  **g<u>o</u>	[ɡ<u>əʊ</u>]**		v.去;走;开始;进行
 
-  **l<u><font color=#A52A2A>ow</font></u>	[l<u><font color=#A52A2A>əʊ</font></u>]**		adj.低的;矮的 n.低水平;低点;低数目
+  **l<u>ow</u>	[l<u>əʊ</u>]**		adj.低的;矮的 n.低水平;低点;低数目
 
-  **b<u><font color=#A52A2A>oa</font></u>t	 [b<u><font color=#A52A2A>əʊ</font></u>t]**		n.(泛指)船;小船;舟;汽艇
+  **b<u>oa</u>t	 [b<u>əʊ</u>t]**		n.(泛指)船;小船;舟;汽艇
 
 - **[aʊ]** 
 
-  **<u><font color=#A52A2A>ou</font></u>t	[<u><font color=#A52A2A>aʊ</font></u>t]** 		adv./prep.(从…里)出来;出去;外出;不在家;
+  **<u>ou</u>t	[<u>aʊ</u>t]** 		adv./prep.(从…里)出来;出去;外出;不在家;
 
-  **n<u><font color=#A52A2A>ow</font></u>	 [n<u><font color=#A52A2A>aʊ</font></u>]**		adv.现在;目前;此刻从现在开始;
+  **n<u>ow</u>	 [n<u>aʊ</u>]**		adv.现在;目前;此刻从现在开始;
 
-  
 
   
 
@@ -326,29 +326,26 @@
 
 - **[ɪə]**
 
-  **b<u><font color=#A52A2A>ee</font></u>r	[b<u><font color=#A52A2A>ɪə</font></u>]** 		n.啤酒
+  **b<u>ee</u>r	[b<u>ɪə</u>]** 		n.啤酒
 
-  **n<u><font color=#A52A2A>ea</font></u>r	 [n<u><font color=#A52A2A>ɪə</font></u>]**		adj.近的;接近;距离近;不远; adv.几乎；差不多 prep.靠近;接近;临近
+  **n<u>ea</u>r	 [n<u>ɪə</u>]**		adj.近的;接近;距离近;不远; adv.几乎；差不多 prep.靠近;接近;临近
 
-  
 
 - **[eə]**
 
-  **p<u><font color=#A52A2A>ear</font></u>	[p<u><font color=#A52A2A>eə</font></u>]**		n.梨
+  **p<u>ear</u>	[p<u>eə</u>]**		n.梨
 
-  **f<u><font color=#A52A2A>air</font></u>	[f<u><font color=#A52A2A>eə</font></u>]** 		adj.公平的;合理的;恰当的;	adv.公正地
+  **f<u>air</u>	[f<u>eə</u>]** 		adj.公平的;合理的;恰当的;	adv.公正地
 
-  **th<u><font color=#A52A2A>ere</font></u>	 [ð<u><font color=#A52A2A>eə</font></u>]**	adv.那里;在那里;到那里;往那里;
+  **th<u>ere</u>	 [ð<u>eə</u>]**	adv.那里;在那里;到那里;往那里;
 
-  
 
 - **[ʊə]**
 
-  **s<u><font color=#A52A2A>ure</font></u>	[ʃ<u><font color=#A52A2A>ʊə</font></u>]** 		adv.(表示同意)当然;(加强语气)确实，的确; adj.确知;有把握;一定，必定
+  **s<u>ure</u>	[ʃ<u>ʊə</u>]** 		adv.(表示同意)当然;(加强语气)确实，的确; adj.确知;有把握;一定，必定
 
-  **t<u><font color=#A52A2A>our</font></u>	[t<u><font color=#A52A2A>ʊə</font></u>]**		n.旅行;旅游;游览;参观;
+  **t<u>our</u>	[t<u>ʊə</u>]**		n.旅行;旅游;游览;参观;
 
-  
 
 
 
@@ -390,7 +387,7 @@
 - **辅音的3种分类法：**
 
   - 发音时声带是否震动**（清、浊）**⭐️
-    
+
     **声带不震动的辅音是清辅音， 声带震动的的辅音是浊辅音**
 
   - 声音的发音方式（爆破音、鼻音）
@@ -405,11 +402,11 @@
 
     比如: `p` 这个音标, 发音时双唇闭住,上下嘴唇裂开发出来我们称`p` 为双唇音. 等等
 
-  
+
   >  我们在理解辅音发音分类时， 重点掌握声带是否震动的划分， 即清辅音和浊辅音的分类原则
   >
-  > 后两种发音分类不是最主要的， 其实后两种划分方式主要是帮助我们去了解这个音应该怎样的发
-  
+  >  后两种发音分类不是最主要的， 其实后两种划分方式主要是帮助我们去了解这个音应该怎样的发
+
 - 清辅音（9个）
 
 ```
@@ -419,7 +416,7 @@
 - 浊辅音（15个）
 
 ```
-[b]	[d]	[g]		[v]	[ð]		[z] [ʒ]	[dʒ] [r] [m]	[n]	[ŋ] [l] [w]	[j] 
+[b]	[d]	[g]		[v]	[ð]		[z] [ʒ]	[dʒ] [r] 	[m]	[n]	[ŋ] [l] [w]	[j] 
 ```
 
 - 辅音连缀（4个）
@@ -458,33 +455,33 @@
 [b]	[d]	[g]
 ```
 
-- **清**：[<u><font color=#A52A2A>p</font></u>]		[<u><font color=#A52A2A>t</font></u>]		  [<u><font color=#A52A2A>k</font></u>]
+- **清**：[<u>p</u>]		[<u>t</u>]		  [<u>k</u>]
 
   ​		双唇	齿龈	  软腭
 
-  ​		<u><font color=#A52A2A>p</font></u>ark	foo<u><font color=#A52A2A>t</font></u>	  <u><font color=#A52A2A>c</font></u>at 
+  ​		<u>p</u>ark	foo<u>t</u>	  <u>c</u>at 
 
   ​		 \/		  \/         \/
 
-- **浊：**[<u><font color=#A52A2A>b</font></u>]        [<u><font color=#A52A2A>d</font></u>]       [<u><font color=#A52A2A>g</font></u>]
+- **浊：**[<u>b</u>]        [<u>d</u>]       [<u>g</u>]
 
-​			  双唇	 齿龈	软腭
+  ​		  双唇	 齿龈	软腭
 
-​			 <u><font color=#A52A2A>b</font></u>ook	<u><font color=#A52A2A>d</font></u>oor  <u><font color=#A52A2A>g</font></u>reat
+  ​		 <u>b</u>ook	<u>d</u>oor  <u>g</u>reat
 
 **从上面我们发现, 爆破音一共三组, `p 和 b`、`t 和 d` 、`k 和 g` 在浊化时要注意.**
 
-​	**<u><font color=#A52A2A>p</font></u>ark	 [<u><font color=#A52A2A>p</font></u>ɑːk]** 		n.公园; v.停(车);泊(车);
+​	**<u>p</u>ark	 [<u>p</u>ɑːk]** 		n.公园; v.停(车);泊(车);
 
-​	**foo<u><font color=#A52A2A>t</font></u>	[fʊ<u><font color=#A52A2A>t</font></u>]**		n.脚
+​	**foo<u>t</u>	[fʊ<u>t</u>]**		n.脚
 
-​	**<u><font color=#A52A2A>c</font></u>at	 [<u><font color=#A52A2A>k</font></u>æt]** 		n.猫;猫科动物
+​	**<u>c</u>at	 [<u>k</u>æt]** 		n.猫;猫科动物
 
-​	**<u><font color=#A52A2A>b</font></u>ook	[<u><font color=#A52A2A>b</font></u>ʊk]**		n.书;书籍;	v.(向旅馆、饭店、戏院等)预约，预订
+​	**<u>b</u>ook	[<u>b</u>ʊk]**		n.书;书籍;	v.(向旅馆、饭店、戏院等)预约，预订
 
-​	**<u><font color=#A52A2A>d</font></u>oor	 [<u><font color=#A52A2A>d</font></u>ɔː]**		n.门;
+​	**<u>d</u>oor	 [<u>d</u>ɔː]**		n.门;
 
-​	**<u><font color=#A52A2A>g</font></u>reat	[<u><font color=#A52A2A>ɡ</font></u>reɪt]**		adj.伟大的;巨大的
+​	**<u>g</u>reat	[<u>ɡ</u>reɪt]**		adj.伟大的;巨大的
 
 
 
@@ -506,11 +503,11 @@
 
 - **浊化的条件：** S + 清 爆 **（重读）**⭐️
 
-  - **s<u><font color=#A52A2A>p</font></u>eak	 [s<u><font color=#A52A2A>p</font></u>iːk]**		v讲话;发言;讲述; speak English
-  - **s<u><font color=#A52A2A>t</font></u>udent	 [ˈs<u><font color=#A52A2A>t</font></u>juːdnt]**		n.学生;
-  - **s<u><font color=#A52A2A>t</font></u>ory	[ˈs<u><font color=#A52A2A>t</font></u>ɔːri]**		n.(虚构的)故事;小说 v讲…的故事;把…作为故事讲述说谎
-  - **s<u><font color=#A52A2A>k</font></u>y	[s<u><font color=#A52A2A>k</font></u>aɪ]**		n.天;天空
-  
+  - **s<u>p</u>eak	 [s<u>p</u>iːk]**		v讲话;发言;讲述; speak English
+    - **s<u>t</u>udent [ˈs<u>t</u>juːdnt]**		n.学生;
+      - **s<u>t</u>ory[ˈs<u>t</u>ɔːri]**	n.(虚构的)故事;小说 v讲…的故事;把…作为故事讲述说谎
+        - **s<u>k</u>y[s<u>k</u>aɪ]**n.天;天空
+
   ```
   // p -> b
   speak [spiːk] 其实真实发音是 [sbiːk]， 音标[p] 发[b] 的音
@@ -521,8 +518,7 @@
   // k -> g
   sky	[skaɪ] 其实真实发音是 [sgaɪ]， 音标[k] 发[g] 的音
   ```
-  
-  
+
 
 
 
@@ -567,9 +563,9 @@
    清	浊
   ```
 
-  **sa<u><font color=#A52A2A>f</font></u>e	[seɪ<u><font color=#A52A2A>f</font></u>]**		adj.安全的
+  **sa<u>f</u>e	[seɪ<u>f</u>]**		adj.安全的
 
-  **sa<u><font color=#A52A2A>v</font></u>e	[seɪ<u><font color=#A52A2A>v</font></u>]**		v.救;救助;保存;
+  **sa<u>v</u>e	[seɪ<u>v</u>]**		v.救;救助;保存;
 
   > [f] 上齿放在下唇上, 声带不震动
   >
@@ -578,16 +574,16 @@
 - **齿音（2个）**
 
   > 所谓齿音, 就是发音的过程中借助上下齿, 发音的过程中把舌尖轻轻的放在上下牙齿之间. 气流冲出的过程中产生的声音, 我们就称为齿音. 
-  
+
   ```
   [θ]	[ð]
    清	浊
   ```
 
-  **brea<u><font color=#A52A2A>th</font></u>	[bre<u><font color=#A52A2A>θ</font></u>]**		n.呼吸的空气;一次吸入的空气
-  
-  **brea<u><font color=#A52A2A>th</font></u>e	[briː<u><font color=#A52A2A>ð</font></u>]** 	v.呼吸;呼出;
-  
+  **brea<u>th</u>	[bre<u>θ</u>]**		n.呼吸的空气;一次吸入的空气
+
+  **brea<u>th</u>e	[briː<u>ð</u>]** 	v.呼吸;呼出;
+
   > [θ]	舌尖放在上下齿之间, 发音时不震动
   >
   > [ð]	舌尖放在上下齿之间, 发音时震动
@@ -614,40 +610,40 @@
 
 - 齿龈音
 
+  > 齿龈音, 发音时舌头轻轻的放在上齿龈的位置
+
   ```
   [s]	[z]
    清 	浊
   ```
 
-  **ra<u><font color=#A52A2A>c</font></u>e	 [reɪ<u><font color=#A52A2A>s</font></u>]**		n.比赛;赛跑 v.(和…)比赛;参加比赛;
+  **ra<u>c</u>e	 [reɪ<u>s</u>]**		n.比赛;赛跑 v.(和…)比赛;参加比赛;
 
-  **rai<u><font color=#A52A2A>s</font></u>e 	[reɪ<u><font color=#A52A2A>z</font></u>]** 		vt.举起;提起;提升;
+  **rai<u>s</u>e 	[reɪ<u>z</u>]** 		vt.举起;提起;提升;
 
-- 后齿龈音
+- 后齿龈音**(喇叭音)**
 
   ```
   [ʃ] [ʒ]
    清	浊
   ```
 
-  **<u><font color=#A52A2A>sh</font></u>ow	[<u><font color=#A52A2A>ʃ</font></u>əʊ]**		v.显示;表明;展示;
+  **<u>sh</u>ow	[<u>ʃ</u>əʊ]**		v.显示;表明;展示;
 
-  **plea<u><font color=#A52A2A>su</font></u>re	 [ˈple<u><font color=#A52A2A>ʒ</font></u>ə]** 		n.高兴;快乐;愉快; vi.使高兴;
+  **plea<u>su</u>re	 [ˈple<u>ʒ</u>ə]** 		n.高兴;快乐;愉快; vi.使高兴;
 
-- 后齿龈音（破檫音）
+- 后齿龈音**（喇叭音\破檫音）**
+
+  > 气流最开始受阻破口摩擦着发出来
 
   ```
   [tʃ]	[dʒ]
    清		浊
   ```
 
-  **<u><font color=#A52A2A>ch</font></u>oose	 [<u><font color=#A52A2A>tʃ</font></u>uːz]**		v.选择;挑选;选取;
+  **<u>ch</u>oose	 [<u>tʃ</u>uːz]**		v.选择;挑选;选取;
 
-  **a<u><font color=#A52A2A>ge</font></u>	 [eɪ<u><font color=#A52A2A>dʒ</font></u>]**		n.年龄;
-
-
-
-
+  **a<u>ge</u>	 [eɪ<u>dʒ</u>]**		n.年龄;
 
 
 
@@ -669,13 +665,11 @@
 
 ### 3.5、辅音-近音
 
-近音易受后面元音影响
+近音易受后面与之临近的元音影响,甚至在某些情况下不发音
 
 ```
 [h]	[r]	[l]	[w]	[j] 
 ```
-
-
 
 - 清音、喉音
 
@@ -683,19 +677,34 @@
   [h]
   ```
 
-  **<u><font color=#A52A2A>h</font></u>ow	 [<u><font color=#A52A2A>h</font></u>aʊ]**		adv.怎样;如何
+  **<u>h</u>ow	 [<u>h</u>aʊ]**		adv.怎样;如何
+
+  **hour	[ˈaʊə]**		n.小时   //h不发音
 
 - 浊音、齿龈音
 
   ```
-  [r]	[l]
+  [r]	
   ```
 
-  **<u><font color=#A52A2A>r</font></u>ed	[<u><font color=#A52A2A>r</font></u>ed]**		n.红色; adj.红色的;
+  **<u>r</u>ed	[<u>r</u>ed]**		n.红色; adj.红色的;
 
-  **<u><font color=#A52A2A>l</font></u>ike	 [<u><font color=#A52A2A>l</font></u>aɪk]** 	*(清晰)*	v.喜欢  prep.类似;相似;像…一样; adj.类似的;相似的
+  > 发音时舌头轻轻往上卷起, 但是卷而不接
 
-​		**te<u><font color=#A52A2A>ll</font></u>	 [te<u><font color=#A52A2A>l</font></u>]**   	*(含糊)*   v.告诉;告知;讲述;说;
+- 浊音、齿龈音
+
+  ```
+  [l]
+  ```
+
+  > [l] 这个音浊音,发音时有2种类型
+  >
+  > - 一种是**清晰音**, 发音时在音节的开头是发清晰音, 比如: like  [laɪk]      (乐)
+  > - 另一种是**含糊因**(模糊音),发音是在音节的结尾时发模糊音,比如: tell [tel]  (鹅)
+
+  **<u>l</u>ike	 [<u>l</u>aɪk]** 	***(清晰音)***	v.喜欢  prep.类似;相似;像…一样; adj.类似的;相似的
+
+  ​	**te<u>ll</u>	 [te<u>l</u>]**   	*(**含糊**)*   v.告诉;告知;讲述;说; 
 
 - 浊音、双唇音
 
@@ -703,7 +712,7 @@
   [w]
   ```
 
-  <u><font color=#A52A2A>w</font></u>ait	[<u><font color=#A52A2A>w</font></u>eɪt]		v.等待;等;等候;
+  <u>w</u>ait	[<u>w</u>eɪt]		v.等待;等;等候;
 
 - 浊音、硬腭音
 
@@ -711,7 +720,7 @@
   [j] 
   ```
 
-  **<u><font color=#A52A2A>y</font></u>es	[<u><font color=#A52A2A>j</font></u>es]**		n.对;表示同意的答复;
+  **<u>y</u>es	[<u>j</u>es]**		n.对;表示同意的答复;
 
 
 
@@ -746,7 +755,7 @@
   [m]
   ```
 
-  **<u><font color=#A52A2A>m</font></u>any	[ˈ<u><font color=#A52A2A>m</font></u>eni]** 		adj.许多的
+  **<u>m</u>any	[ˈ<u>m</u>eni]** 		adj.许多的
 
 - 浊音、齿龈音
 
@@ -755,7 +764,7 @@
   [n]
   ```
 
-  **<u><font color=#A52A2A>n</font></u>ice	 [<u><font color=#A52A2A>n</font></u>aɪs]**		adj.美好的;令人愉快的;
+  **<u>n</u>ice	 [<u>n</u>aɪs]**		adj.美好的;令人愉快的;
 
 - 浊音、软腭音
 
@@ -764,7 +773,7 @@
   [ŋ]
   ```
 
-  **pi<u><font color=#A52A2A>n</font></u>k	[pɪ<u><font color=#A52A2A>ŋ</font></u>k]**		n.粉红色 adj.粉红色的;
+  **pi<u>n</u>k	[pɪ<u>ŋ</u>k]**		n.粉红色 adj.粉红色的;
 
 
 
@@ -785,8 +794,29 @@
 
 
 
+### 3.7、辅音-辅音连缀⭐️
 
-### 3.7、辅音-辅音连缀
+前面我们介绍了，英语的音素在发音时根据气流是否受阻分为**元音**（气流不受阻） 和 **辅音**（气流受阻）两大类。
+
+还介绍了辅音的三种主要的分类方式：
+
+- 根据辅音发音时声带是否震动分为**清辅音**（声带不震动） 和**浊辅音**（声带振动）
+
+- 根据发音方式分为**爆破音**和**鼻音** 等
+
+  > 爆破音- 声音从口腔发出
+  >
+  > 鼻音- 声音从鼻子发出
+
+- 根据发音的部位分为 **双唇音、唇齿音**等
+
+但是辅音连缀是不满足前面三种辅音分类方式的。 它是一种特殊的辅音存在。
+
+按理说在英语中只要两个及以上连着的辅音之间不被任何元音隔开它都叫辅音连缀。 
+
+> 简单的说， 多个直接连着的辅音， 我们都称为辅音连缀
+
+主要的常用的辅音连缀有4个：
 
 ```
 [tr] [dr]	[ts] [dz]
@@ -794,24 +824,67 @@
 
 
 
-eg:
+- [tr]
 
-```
-[tr]
-```
+  **<u>tr</u>y	 [<u>tr</u>aɪ]**		v.尝试;试;努力;试图;试用;设法;	n.尝试;努力
 
-**<u><font color=#A52A2A>tr</font></u>y	 [<u><font color=#A52A2A>tr</font></u>aɪ]**		v.尝试;试;努力;试图;试用;设法;	n.尝试;努力
+  **<u>tr</u>ouble	 [ˈ<u>tr</u>ʌbl]** 		n.麻烦;困难;问题;忧虑
 
-```
-[dr]
-```
 
-**<u><font color=#A52A2A>dr</font></u>eam	[<u><font color=#A52A2A>dr</font></u>iːm]**		n.梦;睡梦;梦想; v.做梦;梦见;
+- [dr]
 
-```
-```
+  **<u>dr</u>y	[<u>dr</u>aɪ]**		adj.干的;干燥的;雨少的;干旱的;
 
- 
+  **<u>dr</u>eam	[<u>dr</u>iːm]**		n.梦;睡梦;梦想; v.做梦;梦见;
+
+
+
+最后两个辅音连缀 `[ts]  和 [dz]`  比较特殊， 主要是在我们平时的**单词**上加上其它的**功能后缀**时产生出来的。 
+
+> 常见的功能后缀：s， es， ed 等
+>
+>  比如：
+>
+> cat -> cats , book -> books 
+
+- [ts] 		词
+
+  ```
+  cat	[kæt]	n.猫;猫科动物   -> cats      [kæts]  发 [kæ词]
+  ```
+
+
+- [dz]		子
+
+  ```
+  read	[riːd] v阅读;读;朗读;  n.阅读;读书; 读物  -> reads  [riːdz] 	 [ri:子]
+  ```
+
+  ​
+
+#### 词尾加 -s， -es， -ed 后的读法：
+
+名词的复数，动词的三单，过去式一般有下面的规律： 
+
+- 清->清（s） books
+
+  > 即最后一个发音是清辅音， 那么+ s， es 就发清辅音的 [s], 比如：
+  >
+  > book  [bʊk]  n.书;书籍;  -> books [books]
+
+- 浊|元->浊（Z） bags
+
+  > 即最后一个发音是浊辅音或元音， 那么+ s， es 就发清辅音的 [z], 比如：
+  >
+  > bag   [bæɡ]  n.)纸袋，塑料袋;手提包;  -> bags  [bæɡz] 
+
+- 如果原来的单词以[t] ,[d] 结尾 加 s 后读 [ts] ， [dz]
+
+  > cat	[kæt]	n.猫;猫科动物   -> cats      [kæts]  发 [kæ词]
+  >
+  > read	[riːd] v阅读;读;朗读;  n.阅读;读书; 读物  -> reads   [riːdz]，[ ri:子]
+
+
 
 
 
